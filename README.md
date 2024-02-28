@@ -24,4 +24,6 @@ make dev
 ```
 ### frontの起動
 ```sh
+npm i
+npm run dev
 ```
